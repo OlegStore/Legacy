@@ -4,6 +4,7 @@ class Person {
     private name: string;
     private age
     private profesion: string;
+    private aka:string;
  
  
  // Constructor
