@@ -11,6 +11,7 @@ class Person {
     constructor(name: string, age: number) {
         this.name = name;
         this.age = age;
+        this.aka = aka;
     }
 
     // Method to greet
