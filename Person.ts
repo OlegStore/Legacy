@@ -1,5 +1,6 @@
  Define a class representing a Person
-class Person {
+class Person
+ {
     // Properties
     private name: string;
     private age
